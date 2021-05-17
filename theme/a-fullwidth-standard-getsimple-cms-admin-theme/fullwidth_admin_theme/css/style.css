@@ -1,0 +1,15 @@
+body {width:100%;height:100%}
+.wrapper, .wrapper .nav, #edit_window, .wrapper table {width:100%}
+.bodycontent, .header, .footer-left, .gslogo {padding:0 1em}
+#maincontent {width:80%}
+#sidebar {width:20%}
+#sidebar > ul {padding-left:1em}
+#sidebar #js_submit_line, .compdivlist { margin: 0 0 0 2em;}
+input.text.title, form.manyinputs textarea {width: calc(100% - 10px)}
+.wrapper .nav li.rightnav a.first, .wrapper .nav li.rightnav a.last {font-size:13px; padding:7px 13px; border-radius:5px 5px 0 0}
+.wrapper .nav li.rightnav a.first {background-color:#cf3805}
+#metadata_window select.text.autowidth {width: 50%}
+#metadata_window p {margin-bottom:10px}
+.updated, .error, .notify {margin:0 1em 1em 1em}
+.widesec input.text, .rightsec input.text, .leftsec input.text {width: 94%}
+label span.right {margin-right: 4%}

@@ -20,7 +20,7 @@ register_plugin(
 	i18n_r($thisfile_anony.'/ANONY_TITLE'),
 	'1.0',
 	'Chris Cagle',
-	'http://get-simple.info/',
+	'http://chriscagle.me',
 	i18n_r($thisfile_anony.'/ANONY_DESC'),
 	$thisfile_anony,
 	'gs_anonymousdata'

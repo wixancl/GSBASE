@@ -23,8 +23,7 @@ get_template('header', cl($SITENAME).' &raquo; '.i18n_r('SUPPORT') );
 		<div class="main">
 	
 			<h3><?php i18n('GETTING_STARTED');?></h3>
-
-<!--	
+			
 			<ul>
 				<li><a href="http://get-simple.info/docs/" target="_blank" ><?php i18n('SIDE_DOCUMENTATION'); ?></a></li>
 				<li><a href="http://get-simple.info/forum/" target="_blank" ><?php i18n('SUPPORT_FORUM'); ?></a></li>
@@ -50,7 +49,7 @@ get_template('header', cl($SITENAME).' &raquo; '.i18n_r('SUPPORT') );
 				<li><p><a href="log.php?log=failedlogins.log"><?php i18n('VIEW_FAILED_LOGIN');?></a></p></li>
 				<?php exec_action('support-extras'); ?>
 			</ul>
--->
+
 		</div>
 	</div>
 	

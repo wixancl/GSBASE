@@ -291,6 +291,7 @@ $i18n = array(
 */
 "WELCOME"						=>	"Welcome", // used as 'Welcome USERNAME!'
 "TAB_PAGES"					=>	"<em>P</em>ages",
+"TAB_SYSTEM"					=>	"<em>S</em>ystem",
 "TAB_FILES"					=>	"F<em>i</em>les",
 "TAB_THEME"					=>	"<em>T</em>heme",
 "TAB_BACKUPS"				=>	"<em>B</em>ackups",
